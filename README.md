@@ -2,6 +2,10 @@
 
 Takes a bunch of scores and outputs a ranking.
 
+## Setup
+
+Install [Deno](https://deno.land/#installation)
+
 ## Run
 
 ```sh
